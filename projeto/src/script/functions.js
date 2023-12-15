@@ -10,7 +10,8 @@ function sortfriend(oldlist = []) {
 
     const newFriendWithMyFriendId = []
 
-    for (let i = 0; i < oldlist.length : i ++){
+    for (let i = 0; i < oldlist.length; i ++)
+    {
         if (i > 0){
 
         }else if (i === 0){

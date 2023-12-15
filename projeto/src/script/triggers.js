@@ -39,7 +39,7 @@ let friendregisterd = []
     if(friendregisterd.length > 1){
         sortButton.style.display = 'block'
     }
-
+    console.info(friendregisterd)
 
 
 }) 
